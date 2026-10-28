@@ -31,10 +31,10 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
-<a href="http://atao.github.io/">
+<a href="https://github.com/atao">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=atao&show_icons=true&theme=default&hide_border=true" />
 </a>
-<a href="http://atao.github.io/">
+<a href="https://github.com/atao">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atao&layout=compact" />
 </a>
 
